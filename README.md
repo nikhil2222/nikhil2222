@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **nikhilkumarnk2209@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fnHP02Q0dSYTEqMolUogVLDSlRqpF1Bo/view?usp=sharing](https://drive.google.com/drive/u/0/my-drive)
-
 - ⚡ Fun fact **I like jokes and building apps .**
 
 <h3 align="left">Connect with me:</h3>
