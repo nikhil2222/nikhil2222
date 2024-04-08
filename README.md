@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil2222" alt="nikhil2222" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Shopping App**
+- 🔭 My another github Id is :  https://github.com/nikhilnk2206/nikhilnk2206/ **
 
-- 🌱 I’m currently learning **Flutter , AWS ,Microsoft Azure, Google Cloud ,Competitive Programming**
 
-- 📫 How to reach me **nikhilkumarnk2209@gmail.com**
-
-- ⚡ Fun fact **I like jokes and building apps .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
