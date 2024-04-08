@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil2222" alt="nikhil2222" /></a> </p>
 
-- 🔭 My another github Id is :  https://github.com/nikhilnk2206/nikhilnk2206/ **
+- 🔭 My another github Id is :  https://github.com/nikhilnk2206 **
 
 
 
